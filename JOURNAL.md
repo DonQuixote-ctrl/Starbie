@@ -16,7 +16,7 @@
 
 1. [2026-10-06 – For my first entry, I spent 55 minutes learning the A, L, and P KiCad hotkeys and the schematic layout, highlighted by the Starbie Week 1 Guide.](#2026-10-06-for-my-first-entry-i-spent-55-minutes-learning-th)
 2. [2026-10-07 – A lot of debugging was done today, trying to figure out the syntax and structure of how KiCad is formatted.](#2026-10-07-a-lot-of-debugging-was-done-today-trying-to-figur)
-3. [2026-10-08 – I learned that changing the appearance of layers when editing PCB's is crucial, 40 minutes of my progress today was figuring out Edge.Cuts and B.Courtyard was infact, a layer. I have 9 errors left on](#2026-10-08-i-learned-that-changing-the-appearance-of-layers-)
+3. [2026-10-08 – I learned that changing the appearance of layers when editing PCB's is crucial, 30 minutes of my progress today was figuring out Edge.Cuts and B.Courtyard was infact, a layer. I have 9 errors left on](#2026-10-08-i-learned-that-changing-the-appearance-of-layers-)
 
 ## Design
 
@@ -43,10 +43,10 @@ A lot of debugging was done today, trying to figure out the syntax and structure
 ![Screenshot 2026-10-07 203934](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/u7ReweZZX3EV8SkbSLMxvPLq4LGFfyrJ/56f5b6c77c806f25b6c473b3dd7697a9fe86c12ad6ae9a6c8a73d1e4ead5235b.png)
 The schematic is complete, where tomorrow I'll start on drafting the PCB from the starter project guide.
 
-### 2026-10-08 – I learned that changing the appearance of layers when editing PCB's is crucial, 40 minutes of my progress today was figuring out Edge.Cuts and B.Courtyard was infact, a layer. I have 9 errors left on
+### 2026-10-08 – I learned that changing the appearance of layers when editing PCB's is crucial, 30 minutes of my progress today was figuring out Edge.Cuts and B.Courtyard was infact, a layer. I have 9 errors left on
 
 **1.72h**
 
-I learned that changing the appearance of layers when editing PCB's is crucial, 40 minutes of my progress today was figuring out Edge.Cuts and B.Courtyard was infact, a layer. I have 9 errors left on the PCB editor and I expect to move into the next step in the next entry.
+I learned that changing the appearance of layers when editing PCB's is crucial, 30 minutes of my progress today was figuring out Edge.Cuts and B.Courtyard was infact, a layer. I have 9 errors left on the PCB editor and I expect to move into the next step in the next entry.
 ![Screenshot 2026-10-08 181522](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/u7ReweZZX3EV8SkbSLMxvPLq4LGFfyrJ/08480046bd04c753a1042b6d9f4014f95e9cbb196e1b801ff1c298fc4a2f5562.png)
 ![Screenshot 2026-10-08 191536](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/u7ReweZZX3EV8SkbSLMxvPLq4LGFfyrJ/164203d1392847e53447b2c4eedfe44e9119996a08693833d4006c89ec586509.png)
