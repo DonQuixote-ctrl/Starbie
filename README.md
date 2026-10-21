@@ -4,3 +4,10 @@ This is my first time creating a PCB, following the starter project on Hack CLub
 
 
 I did not have time to take major creative liberties due to time constraints, however this was my first ever time using KiCad and I plan on using the application more in the future! It was a lot more fun and less intimidating as I expected, despite the 3-5 hours of debugging that went into debugging.
+<img width="930" height="750" alt="Screenshot 2026-10-20 211348" src="https://github.com/user-attachments/assets/77ff941c-b669-4e4d-b68e-7494727bcabe" />
+
+
+This is the Bill of Materials! All of the components form a Tamagotchi adjacent motion-controlled pet. 
+
+Credits go to SharkKingStudios (MIT license) for designing the tutorial on Half Life on how to make your own starbie!
+https://github.com/SharKingStudios/Starbie/blob/main/Week%201%20Guide.md
