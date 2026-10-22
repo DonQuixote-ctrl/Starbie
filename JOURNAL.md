@@ -4,9 +4,9 @@
 <!-- Generated: 2026-10-11T16:46:40.955Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvkjxj4014p01pyk5lnm1yc). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A tiny motion-controlled digital pet, basically a desktop Tamagotchi. I did not have time to take creative liberties on the project.
+> A tiny motion-controlled digital pet, basically a desktop Tamagotchi. This project takes inspiration from SharkKingStudio's "How to Make your own Starbie!" I did not have time to take major creative liberties on the project, due to time constraints.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
